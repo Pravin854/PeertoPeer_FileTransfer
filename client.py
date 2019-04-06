@@ -252,7 +252,7 @@ while(True):
     print "show_client_files, List all files in this directory"
     print "show_server_files, List all files in the server"
     print "IndexGet shortlist <starttimestamp> <endtimestamp>, List the files modified in mentioned timestamp."
-    print "IndexGet shortlist <starttimestamp> <endtimestamp> .entension, Bonus 1."
+    print "IndexGet shortlist <starttimestamp> <endtimestamp> .extension, Bonus 1."
     print "IndexGet longlist, Similar to shortlist but with complete file listing"
     print "IndexGet longlist .extension, Bonus 2."
     print "FileHash verify/checkall <filename>, Checksum and lastmodified timestamp of the input file."
